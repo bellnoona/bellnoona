@@ -2,14 +2,14 @@
 &nbsp;
 &nbsp;
 <div align="center">
-  Hi there!👋
+  Hi there!👋<br>
   I'm soohyeon Kim.
   
 </div>
 <h1 align="center">✨About Me✨</h1>
 <div align="center">
 <a href="https://velog.io/@tngusglaso" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/tngusglaso@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>              <!-- Gmail -->
+<a href="mailto:tngusglaso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
 </div>
 &nbsp;
 &nbsp;
