@@ -2,10 +2,13 @@
 &nbsp;
 &nbsp;
 <div align="center">
-  Hi there!👋<br>
-  I'm soohyeon Kim.
-  
+  <h5>Hi there!👋<br>
+ I'm soohyeon Kim.<br>
+ I want to be a Front-end Engineer.
+  </h5>
+  <br>
 </div>
+
 <h1 align="center">✨About Me✨</h1>
 <div align="center">
 <a href="https://velog.io/@tngusglaso" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
@@ -19,7 +22,7 @@
   <h4>Front-End</h4>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>              <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>                <!-- CSS -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>   <!-- js -->
+<img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/></a>   <!-- JavaScript -->
 <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white"/></a>           <!-- Vue.js -->
 <img src="https://img.shields.io/badge/Vuex-33475B?style=flat-square&logo=Vue.js&logoColor=white"/></a>             <!-- Vuex -->
 </div>
