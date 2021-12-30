@@ -4,15 +4,14 @@
 <div align="center">
   <h5>Hi there!👋<br>
  I'm soohyeon Kim.<br>
- I want to be a Front-end Engineer.
   </h5>
   <br>
 </div>
 
 <h1 align="center">✨About Me✨</h1>
 <div align="center">
-<a href="https://velog.io/@tngusglaso" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
-<a href="mailto:tngusglaso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
+<a href="https://velog.io/@tngusglaso"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
+<a href="mailto:tngusglaso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
 </div>
 &nbsp;
 &nbsp;
