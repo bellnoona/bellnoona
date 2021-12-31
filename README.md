@@ -5,23 +5,12 @@
   <h5>Hi there!👋<br>
  I'm soohyeon Kim.<br>
   </h5>
-  <br>
 </div>
 &nbsp;
 &nbsp;
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Vue.js)](https://github.com/kijepark)
-
-<h1 align="center">✨About Me✨</h1>
 <div align="center">
-<a href="https://velog.io/@tngusglaso"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
-<a href="mailto:tngusglaso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
-</div>
-&nbsp;
-&nbsp;
-<h1 align="center">💻Technology Stack💻</h1>
-
-<div align="center">
+<h1>💻 Technology Stack</h1>
   <h4>Front-End</h4>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>              <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>                <!-- CSS -->
@@ -30,7 +19,26 @@
 <img src="https://img.shields.io/badge/Vuex-33475B?style=flat-square&logo=Vue.js&logoColor=white"/></a>             <!-- Vuex -->
 </div>
 
+&nbsp;
+&nbsp;
+
+<div align="center">
+<h1>📂 Projects</h1>
+  * <a href="https://github.com/yts8/sixuniverse"> :house: SIXUNIVERSE: 숙박공유사이트 </a><br>
+  * <a href="https://github.com/bellnoona/bellsboutique"> :dog2: BELLS BOUTIQUE: 반려견 용품 쇼핑몰 </a><br>
+</div>
+&nbsp;
+&nbsp;
+
+<h1 align="center">✨ Contact Me</h1>
+<div align="center">
+<a href="https://velog.io/@tngusglaso"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
+<a href="mailto:tngusglaso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=fed95c&height=200)
+
+
 
 <!--
 <div align="center">
