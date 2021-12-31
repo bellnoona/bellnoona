@@ -7,6 +7,10 @@
   </h5>
   <br>
 </div>
+&nbsp;
+&nbsp;
+
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Vue.js)](https://github.com/kijepark)
 
 <h1 align="center">✨About Me✨</h1>
 <div align="center">
