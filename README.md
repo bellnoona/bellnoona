@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=soohyeon%20Kim%20&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA)
 &nbsp;
 &nbsp;
 <div align="center">
