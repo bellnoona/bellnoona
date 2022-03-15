@@ -24,8 +24,8 @@
 
 <div align="center">
 <h1>📂 Projects</h1>
-  * <a href="https://github.com/yts8/sixuniverse"> :house: SIXUNIVERSE : 숙박공유 사이트 </a><br>
-  * <a href="https://github.com/bellnoona/bellsboutique"> :dog2: BELLS BOUTIQUE : 반려견 용품 쇼핑몰 </a><br>
+  * <a href="https://github.com/yts8/sixuniverse" {:target="_blank"}> :house: SIXUNIVERSE : 숙박공유 사이트 </a><br>
+  * <a href="https://github.com/bellnoona/bellsboutique" {:target="blank"}> :dog2: BELLS BOUTIQUE : 반려견 용품 쇼핑몰 </a><br>
 </div>
 &nbsp;
 &nbsp;
