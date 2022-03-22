@@ -30,7 +30,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center">✍🏼 Languges</h1>
+<h1 align="center">✍🏼 Languages</h1>
 
 <!-- <div align="center">
   <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact" /></a> 
