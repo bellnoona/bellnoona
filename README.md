@@ -30,6 +30,19 @@
 &nbsp;
 &nbsp;
 
+<h1 align="center">✍🏼 Languges</h1>
+
+<!-- <div align="center">
+  <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact" /></a> 
+</div> -->
+
+
+<div align="center">
+<a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+</div>
+&nbsp;
+&nbsp;
+
 <h1 align="center">✨ Contact Me</h1>
 <div align="center">
 <a href="https://velog.io/@tngusglaso"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
