@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA)
+![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA)
 &nbsp;
 &nbsp;
 <div align="center">
   <h4>Hi there!👋<br>
- I'm soohyeon Kim.<br>
+ I'm Soohyeon Kim.<br>
   </h4>
 </div>
 &nbsp;
