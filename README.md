@@ -41,7 +41,7 @@
 
 
 <div align="center">
-<a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+<a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellnoona&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </div>
 &nbsp;
 &nbsp;
