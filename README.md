@@ -2,9 +2,9 @@
 &nbsp;
 &nbsp;
 <div align="center">
-  <h5>Hi there!👋<br>
+  <h4>Hi there!👋<br>
  I'm soohyeon Kim.<br>
-  </h5>
+  </h4>
 </div>
 &nbsp;
 &nbsp;
@@ -24,8 +24,11 @@
 
 <div align="center">
 <h1>📂 Projects</h1>
-  * <a href="https://github.com/yts8/sixuniverse" {:target="_blank"}> :house: SIXUNIVERSE : 숙박공유 사이트 </a><br>
-  * <a href="https://github.com/bellnoona/bellsboutique" {:target="blank"}> :dog2: BELLS BOUTIQUE : 반려견 용품 쇼핑몰 </a><br>
+  <b>2022</b></br>
+  <a href="https://github.com/bellnoona/portfolio" {:target="_blank"}> 👩🏻‍💻 SOOHYEON'S PORTFOLIO : 포트폴리오 사이트 </a><br>
+  <b>2021</b> </br>
+  <a href="https://github.com/yts8/sixuniverse" {:target="_blank"}> :house: SIXUNIVERSE : 숙박공유 사이트 </a><br>
+  <a href="https://github.com/bellnoona/bellsboutique" {:target="blank"}> :dog2: BELLS BOUTIQUE : 반려견 용품 쇼핑몰 </a><br>
 </div>
 &nbsp;
 &nbsp;
