@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA) -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Soohyeon%20Kim&fontAlignY=60&fontSize=90&fontColor=FFFAFA&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Soohyeon%20Kim&fontAlignY=60&fontSize=90&fontColor=000000&animation=fadeIn)
 
 &nbsp;
 &nbsp;
