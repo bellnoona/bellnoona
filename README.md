@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA) -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Soohyeon%20Kim&fontAlign=67&fontAlignY=40&fontSize=70&fontColor=eeeeee)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Soohyeon%20Kim&fontAlign=67&fontAlignY=40&fontSize=70&fontColor=eeeeee)
   </div>
 
 <!-- &nbsp; -->
@@ -67,9 +67,13 @@
 <a href="https://velog.io/@tngusglaso"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
 <a href="mailto:tngusglaso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
 </div>
+&nbsp;
 
-<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=fed95c&height=200) -->
+<div align="center">
+  
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150)
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&height=170&color=gradient) -->
+</div>
 
 
 
