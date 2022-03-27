@@ -17,7 +17,7 @@
 
 <div align="center">
 <h1>💻Technology Stack💻</h1>
-  <h4>Front-end</h4>
+  <h3>Front-end</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>              <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>                <!-- CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/></a>   <!-- JavaScript -->
