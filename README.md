@@ -39,7 +39,7 @@
 &nbsp;
 &nbsp; -->
 
-<h1 align="center">✍🏼Languages & Stats✍🏼 </h1>
+<h1 align="center">✍🏼Github Stats✍🏼 </h1>
 
 <!-- <div align="center">
   <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact" /></a> 
@@ -48,15 +48,16 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a>  -->
-</div>
-<!-- &nbsp; -->
-<!-- &nbsp; -->
-
-<div align="center">
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/bellnoona">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=nightowl" />
+</a>
+  <a href="https://github.com/bellnoona">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&&theme=nightowl" />
+</a>
+
 </div>
 
 &nbsp;
