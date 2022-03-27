@@ -62,6 +62,8 @@
 &nbsp;
 &nbsp;
 
+<div align="center">
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2058%20mins-blue)
 
@@ -146,6 +148,8 @@ CSS                      1 repo              ████░░░░░░░�
  Last Updated on 27/03/2022 08:54:38 UTC
 <!--END_SECTION:waka-->
 
+</div>
+  
 &nbsp;
 &nbsp;
 
