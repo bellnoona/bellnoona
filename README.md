@@ -1,19 +1,23 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA) -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Soohyeon%20Kim&fontAlignY=60&fontSize=90&fontColor=000000&animation=fadeIn)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Soohyeon%20Kim&fontAlign=67&fontAlignY=40&fontSize=70&fontColor=eeeeee)
+  </div>
 
-&nbsp;
-&nbsp;
+<!-- &nbsp; -->
+<!-- &nbsp; -->
 <div align="center">
   <h4>Hi there!👋<br>
  I'm Soohyeon Kim.<br>
+ I want to be a Front-end Developer who continue to grow.
   </h4>
 </div>
 &nbsp;
 &nbsp;
 
 <div align="center">
-<h1>💻 Technology Stack</h1>
-  <h4>Front-End</h4>
+<h1>💻Technology Stack💻</h1>
+  <h4>Front-end</h4>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>              <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>                <!-- CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/></a>   <!-- JavaScript -->
@@ -35,7 +39,7 @@
 &nbsp;
 &nbsp; -->
 
-<h1 align="center">✍🏼 Languages & Stats</h1>
+<h1 align="center">✍🏼Languages & Stats✍🏼 </h1>
 
 <!-- <div align="center">
   <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact" /></a> 
@@ -58,14 +62,14 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center">✨ Contact Me</h1>
+<h1 align="center">✨Contact Me✨</h1>
 <div align="center">
 <a href="https://velog.io/@tngusglaso"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <!-- Velog -->
 <a href="mailto:tngusglaso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
 </div>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=fed95c&height=200) -->
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&height=170&color=gradient)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&height=170&color=gradient) -->
 
 
 
