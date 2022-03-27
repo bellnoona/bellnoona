@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA) -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Soohyeon%20Kim&fontAlign=67&fontAlignY=40&fontSize=70&fontColor=eeeeee)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Soohyeon%20Kim&fontAlign=69&fontAlignY=40&fontSize=67&fontColor=eeeeee)
   </div>
 
 <!-- &nbsp; -->
