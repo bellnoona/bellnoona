@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=4695d6&height=250&section=header&text=Soohyeon%20Kim%20&fontSize=100&animation=fadeIn&fontColor=FFFAFA) -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Soohyeon%20Kim&fontAlignY=60&fontSize=90&fontColor=FFFAFA&animation=fadeIn)
+
 &nbsp;
 &nbsp;
 <div align="center">
@@ -33,7 +35,7 @@
 &nbsp;
 &nbsp; -->
 
-<h1 align="center">✍🏼 Languages</h1>
+<h1 align="center">✍🏼 Languages & Stats</h1>
 
 <!-- <div align="center">
   <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact" /></a> 
@@ -41,8 +43,18 @@
 
 
 <div align="center">
-<a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a>  -->
 </div>
+<!-- &nbsp; -->
+<!-- &nbsp; -->
+
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 &nbsp;
 &nbsp;
 
@@ -52,7 +64,8 @@
 <a href="mailto:tngusglaso@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>      <!-- Gmail -->
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=fed95c&height=200)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=fed95c&height=200) -->
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&height=170&color=gradient)
 
 
 
