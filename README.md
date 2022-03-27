@@ -22,7 +22,7 @@
 &nbsp;
 &nbsp;
 
-<div align="center">
+<!-- <div align="center">
 <h1>📂 Projects</h1>
   <b>2022</b></br>
   <a href="https://github.com/bellnoona/portfolio" {:target="_blank"}> 👩🏻‍💻 SOOHYEON'S PORTFOLIO : 포트폴리오 사이트 </a><br>
@@ -31,7 +31,7 @@
   <a href="https://github.com/bellnoona/bellsboutique" {:target="blank"}> :dog2: BELLS BOUTIQUE : 반려견 용품 쇼핑몰 </a><br>
 </div>
 &nbsp;
-&nbsp;
+&nbsp; -->
 
 <h1 align="center">✍🏼 Languages</h1>
 
