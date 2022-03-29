@@ -127,24 +127,3 @@ Mac                      7 hrs 31 mins       ███████████�
 </div>
 
 
-
-<!--
-<div align="center">
-  <h4>Back-End</h4>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>             
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-</div>
-
-<div align="center">
-  <h4>aaa</h4>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>            
-</div>
-
-<div align="center">
-  <h4>bbb</h4>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>    
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>          
-</div>
--->
-
