@@ -9,7 +9,6 @@
 <div align="center">
   <h4>Hi there!👋<br>
  I'm Soohyeon Kim.<br>
- I want to be a front-end developer continue to grow.
   </h4>
 </div>
 &nbsp;
