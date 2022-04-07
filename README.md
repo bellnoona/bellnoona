@@ -3,8 +3,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Soohyeon%20Kim&fontAlign=69&fontAlignY=40&fontSize=67&fontColor=eeeeee)
   </div>
-
-&nbsp;
 <!-- &nbsp; -->
 <div align="center">
   <h4>Hi there!👋<br>
