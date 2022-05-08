@@ -118,3 +118,5 @@ Mac                      4 hrs 38 mins       ███████████�
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150)
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&height=170&color=gradient) -->
 </div>
+
+
