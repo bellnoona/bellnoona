@@ -18,12 +18,12 @@
   <h3>Frontend</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>                         <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>                           <!-- CSS -->
-<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/> <!-- styled-component -->
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/> <!-- styled components -->
 <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/> <!-- CSS Module -->
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <br/>                    <!-- SCSS -->
 
 <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/>        <!-- JavaScript -->
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>                  <!-- React.js -->
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>               <!-- React.js -->
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>                  <!-- Redux -->
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>                <!-- Vue.js -->
 
