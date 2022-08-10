@@ -25,33 +25,14 @@
 &nbsp;
 &nbsp;
 
-<!-- <div align="center">
-<h1>📂 Projects</h1>
-  <b>2022</b></br>
-  <a href="https://github.com/bellnoona/portfolio" {:target="_blank"}> 👩🏻‍💻 SOOHYEON'S PORTFOLIO : 포트폴리오 사이트 </a><br>
-  <b>2021</b> </br>
-  <a href="https://github.com/yts8/sixuniverse" {:target="_blank"}> :house: SIXUNIVERSE : 숙박공유 사이트 </a><br>
-  <a href="https://github.com/bellnoona/bellsboutique" {:target="blank"}> :dog2: BELLS BOUTIQUE : 반려견 용품 쇼핑몰 </a><br>
-</div>
-&nbsp;
-&nbsp; -->
-
 <h1 align="center">✍🏼Github Stats✍🏼 </h1>
 
-<!-- <div align="center">
-  <a href="https://github.com/bellnoona"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact" /></a> 
-</div> -->
-
-
 <div align="center">
-  
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <a href="https://github.com/bellnoona">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=material-palenight" />
 </a>
-  <a href="https://github.com/bellnoona">
+<a href="https://github.com/bellnoona">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellnoona&layout=compact&theme=material-palenight" />
 </a>
 
@@ -68,10 +49,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-🌆 Daytime    110 commits    ███████░░░░░░░░░░░░░░░░░░   27.57% 
-🌃 Evening    118 commits    ███████░░░░░░░░░░░░░░░░░░   29.57% 
-🌙 Night      143 commits    █████████░░░░░░░░░░░░░░░░   35.84%
+🌞 Morning    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
+🌆 Daytime    110 commits    ███████░░░░░░░░░░░░░░░░░░   27.64% 
+🌃 Evening    117 commits    ███████░░░░░░░░░░░░░░░░░░   29.4% 
+🌙 Night      143 commits    █████████░░░░░░░░░░░░░░░░   35.93%
 
 ```
 
@@ -94,7 +75,7 @@ Mac                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/08/2022 10:34:30 UTC
+ Last Updated on 09/08/2022 19:10:03 UTC
 <!--END_SECTION:waka-->
 
 &nbsp;
