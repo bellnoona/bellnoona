@@ -52,7 +52,7 @@
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=bellnoona&show_icons=true&theme=material-palenight" />
 </a>
   <a href="https://github.com/bellnoona">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellnoona&layout=compact&theme=material-palenight" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellnoona&layout=compact&theme=material-palenight" />
 </a>
 
 </div>
