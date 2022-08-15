@@ -18,7 +18,7 @@
   <h3>Frontend</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>                          <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>                            <!-- CSS -->
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/> <!-- styled components -->
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/> <!-- styled components -->
 <!-- <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/> --> <br/>            <!-- SCSS -->
 
 <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/>     <!-- JavaScript -->
