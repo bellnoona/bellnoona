@@ -64,7 +64,7 @@
 <h1 align="center">⏰How to spent my time⏰ </h1>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2048%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -98,7 +98,7 @@ Mac                      1 hr 51 mins        ███████████�
 ```
 
 
- Last Updated on 16/08/2022 19:09:10 UTC
+ Last Updated on 17/08/2022 19:08:54 UTC
 <!--END_SECTION:waka-->
 
 &nbsp;
