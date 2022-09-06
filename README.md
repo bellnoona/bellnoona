@@ -81,23 +81,21 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 50 mins        ███████████████████████░░   93.19% 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-js_basic                 1 hr 58 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 05/09/2022 19:09:17 UTC
+ Last Updated on 06/09/2022 19:09:06 UTC
 <!--END_SECTION:waka-->
 
 &nbsp;
