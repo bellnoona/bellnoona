@@ -64,7 +64,7 @@
 <h1 align="center">⏰How to spent my time⏰ </h1>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2046%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -95,7 +95,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2022 19:10:57 UTC
+ Last Updated on 09/09/2022 19:10:46 UTC
 <!--END_SECTION:waka-->
 
 &nbsp;
