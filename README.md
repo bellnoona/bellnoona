@@ -64,7 +64,7 @@
 <h1 align="center">⏰How to spent my time⏰ </h1>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2038%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -81,21 +81,28 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 29 mins       █████████████████████░░░░   83.97% 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.34% 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+YOLO_Frontend            2 hrs 13 mins       █████████████░░░░░░░░░░░░   53.53% 
+youth-gallery            1 hr 49 mins        ███████████░░░░░░░░░░░░░░   43.84% 
+FE-School2_SelectBox     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
+shop                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/10/2022 19:13:53 UTC
+ Last Updated on 24/10/2022 19:22:07 UTC
 <!--END_SECTION:waka-->
 
 &nbsp;
