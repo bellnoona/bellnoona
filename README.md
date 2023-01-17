@@ -47,9 +47,11 @@
 <h1 align="center">✍🏼Github Stats✍🏼 </h1>
 
 <div align="center">
-  <a href="https://github.com/bellnoona">
-    <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bellnoona&show_icons=true&theme=material-    palenight" />
+  
+ <a href="https://github.com/bellnoona">
+  <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bellnoona&show_icons=true&theme=material-palenight" />
   </a>
+  
 </div>
 
 &nbsp;
