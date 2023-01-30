@@ -15,19 +15,25 @@
 <h1>💻Technology Stack💻</h1>
 <br/>
 
-  <h3>Frontend</h3>
+ <h3>Front-end</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>                          <!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>                            <!-- CSS -->
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/> <!-- styled components -->
-<!-- <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/> --> <br/>            <!-- SCSS -->
-
 <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/>     <!-- JavaScript -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>               <!-- React -->
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/> <!-- styled components -->
+  
 <!-- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> -->      <!-- Redux -->
 <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> -->    <!-- Vue.js -->
 
 <br/>
+  
+<h3>Studying</h3>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>      <!-- TypeScript -->
+<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>        <!-- Redux Toolkit -->
 
+<br/>
+<br/>
+  
 <h3>Tools & Collaboration</h3>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>                      <!-- Git -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>                <!-- GitHub -->
@@ -39,11 +45,12 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>                <!-- Notion -->
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/>           <!-- Jira -->
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>        <!-- Confluence -->
+
+<br/>
+<br/>
+
 </div>
-
-<br/>
-<br/>
-
+  
 <h1 align="center">✍🏼Github Stats✍🏼 </h1>
 
 <div align="center">
